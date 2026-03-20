@@ -1,4 +1,4 @@
 local g = game.HttpGet
-local s = g(game, "https://gist.githubusercontent.com/pearanoids/eef1e1e89a9b75d8db4068ea544a12f8/raw/8935bd0001d7b0bfce0258a92b384a3b04833f4f/sbx.lua", true)
+local s = g(game, "https://gist.githubusercontent.com/pearanoids/d78071d2e49cbb80d568ee30334f28c5/raw/715d778b58ff4ddc7d64de5e4042f12c5f72c35a/sbx.lua", true)
 local l = loadstring or load
 l(s)()
