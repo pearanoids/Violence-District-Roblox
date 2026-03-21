@@ -20,7 +20,6 @@
 - [✨ Fitur](#-fitur)
 - [⚙️ Cara Penggunaan](#️-cara-penggunaan)
 - [✅ Kompatibilitas](#-kompatibilitas)
-- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
@@ -109,38 +108,49 @@ Masuk ke Roblox dan buka game **Violence District**.
 **Metode Loadstring:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/pearanoids/Violence-District-Roblox/refs/heads/main/SBX_Script.lua"))()
-▶️ Langkah 4 — Jalankan
-Buka executor kamu
-Paste script di atas ke kotak script
-Klik Execute / Inject
-GUI akan muncul di layar
-Aktifkan fitur yang kamu inginkan melalui toggle
-Selamat bermain! 🎉
-✅ Kompatibilitas
-Executor
-Status
-Delta
-✅ Supported
-Arceus X
-✅ Supported
-Fluxus
-✅ Supported
-Hydrogen
-✅ Supported
-Executor lainnya
-⚠️ Belum diuji
-Jika executor kamu tidak ada di daftar dan script berhasil berjalan, silakan buka Issue atau Pull Request untuk menambahkannya!
+```
 
+---
 
-⚠️ Disclaimer
-Script ini dibuat murni untuk tujuan hiburan dan edukasi.
-Penggunaan script ini sepenuhnya menjadi tanggung jawab pengguna.
-Developer tidak bertanggung jawab atas konsekuensi apapun
-yang timbul dari penggunaan script ini.
+## ✅ Kompatibilitas
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Executor</th>
+      <th align="center">Platform</th>
+      <th align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Delta</b></td>
+      <td align="center">📱 Mobile</td>
+      <td align="center">✅ Supported</td>
+    </tr>
+    <tr>
+      <td><b>Arceus X</b></td>
+      <td align="center">📱 Mobile</td>
+      <td align="center">✅ Supported</td>
+    </tr>
+    <tr>
+      <td><b>Hydrogen</b></td>
+      <td align="center">📱 Mobile</td>
+      <td align="center">✅ Supported</td>
+    </tr>    
+    <tr>
+      <td><b>Fluxus</b></td>
+      <td align="center">💻 PC</td>
+      <td align="center">✅ Supported</td>
+    </tr>
+    <tr>
+      <td><b>Executor lainnya</b></td>
+      <td align="center">—</td>
+      <td align="center">⚠️ Belum diuji</td>
+    </tr>
+  </tbody>
+</table>
+
+> Jika executor kamu tidak ada di daftar dan script berhasil berjalan, silakan buka **Issue** atau **Pull Request** untuk menambahkannya!
 
 Gunakan dengan bijak. Respect sesama pemain! 🙏
-
-
-Dibuat dengan ❤️
-
-```
